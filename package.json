@@ -1,0 +1,34 @@
+{
+  "name": "hola-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrisTowi/hola-angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrisTowi/hola-angular/issues"
+  },
+  "homepage": "https://github.com/CrisTowi/hola-angular#readme",
+  "dependencies": {
+    "@angular/common": "^2.0.0-rc.4",
+    "@angular/compiler": "^2.0.0-rc.4",
+    "@angular/core": "^2.0.0-rc.4",
+    "@angular/platform-browser": "^2.0.0-rc.4",
+    "@angular/platform-browser-dynamic": "^2.0.0-rc.4",
+    "@angular/router": "^0.2.0",
+    "@angular/router-deprecated": "^2.0.0-rc.2",
+    "bootstrap": "^3.3.6",
+    "es6-shim": "^0.35.1",
+    "reflect-metadata": "^0.1.3",
+    "rxjs": "^5.0.0-beta.10",
+    "systemjs": "^0.19.31",
+    "zone.js": "^0.6.12"
+  }
+}
